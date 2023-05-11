@@ -10,4 +10,4 @@ It then determines the optimal number of clusters using the Calinski-Harabasz in
 ### The second script (CAH+CH.py) 
 Uses agglomerative hierarchical clustering (AHC to find the best number of clusters to use in k-means using the Calinski-Harabasz index score for each clustering solution. 
 ## Prerequisites
-The scripts are written in Python 3 and require the following packages: numpy, matplotlib, scikit-learn, and pandas. The CH+Kmeans+ACP.py script also requires the time package.
+The scripts are written in Python 3 and require the following packages: numpy, matplotlib, scikit-learn, and pandas. 
