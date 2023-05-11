@@ -1,4 +1,4 @@
-# Find-the-number-of-clusters-using-Calinski-Harabasz-idex
+# Find the best number of clusters using Calinski-Harabasz-idex
 This repository contains two Python scripts for clustering analysis using different methods. 
 Both scripts use the Calinski-Harabasz index to find the best number of clusters to use in k-means.
 ## The Calinski-Harabasz index:
