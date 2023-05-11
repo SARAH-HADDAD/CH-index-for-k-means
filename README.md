@@ -1,6 +1,6 @@
 # Find-the-number-of-clusters-using-Calinski-Harabasz-idex
 This repository contains two Python scripts for clustering analysis using different methods. 
-Both scripts use the Calinski-Harabasz index to evaluate the quality of the clustering solutions.
+Both scripts use the Calinski-Harabasz index to find the best number of clusters.
 ## The Calinski-Harabasz index:
 The Calinski-Harabasz index is a measure of cluster separation that compares the ratio of between-cluster dispersion and within-cluster dispersion. 
 A higher index value indicates better clustering.
